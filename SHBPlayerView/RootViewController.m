@@ -22,7 +22,6 @@
     [self.view addSubview:_playerView];
     
     [self creatBtn:@"Play" action:@selector(clickedBtn:) y:400];
-    
 }
 
 - (void)clickedBtn:(UIButton *)btn {
