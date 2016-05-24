@@ -1,0 +1,6 @@
+framework module SHBPlayer {
+  umbrella header "SHBPlayer.h"
+
+  export *
+  module * { export * }
+}
