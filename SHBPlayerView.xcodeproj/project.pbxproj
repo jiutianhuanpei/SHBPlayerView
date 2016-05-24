@@ -17,6 +17,7 @@
 		4D8BE2F21CF4AB2B007A406B /* SHBPlayer.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 4D8BE2EA1CF4AB2B007A406B /* SHBPlayer.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		4D8BE2F71CF4AB3E007A406B /* SHBPlayerView.h in Headers */ = {isa = PBXBuildFile; fileRef = 4D8BE2E11CF4A8B5007A406B /* SHBPlayerView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4D8BE2F81CF4AB45007A406B /* SHBPlayerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D8BE2E21CF4A8B5007A406B /* SHBPlayerView.m */; };
+		4D8BE2F91CF4AE9A007A406B /* SHBPlayer.h in Headers */ = {isa = PBXBuildFile; fileRef = 4D8BE2E41CF4AAE5007A406B /* SHBPlayer.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -139,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4D8BE2F71CF4AB3E007A406B /* SHBPlayerView.h in Headers */,
+				4D8BE2F91CF4AE9A007A406B /* SHBPlayer.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
